@@ -103,6 +103,6 @@ yang dilakukan, model memperoleh akurasi sebesar 87,5%.
 
 ## 7. File Repository
 
--   `youtube-spam-comment-detection(1).ipynb` --- notebook sumber yang
+-   `youtube-spam-comment-detection.ipynb` --- notebook sumber yang
     berisi kode dan proses analisis.
 -   `README.md` --- penjelasan dan rangkuman isi notebook.
